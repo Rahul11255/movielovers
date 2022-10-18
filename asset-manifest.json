@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movielovers/static/css/main.137648ee.css",
+    "main.js": "/movielovers/static/js/main.b28f6129.js",
+    "static/media/logo.png": "/movielovers/static/media/logo.9cab5618d3842d372408.png",
+    "index.html": "/movielovers/index.html",
+    "main.137648ee.css.map": "/movielovers/static/css/main.137648ee.css.map",
+    "main.b28f6129.js.map": "/movielovers/static/js/main.b28f6129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.137648ee.css",
+    "static/js/main.b28f6129.js"
+  ]
+}
